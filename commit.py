@@ -13,4 +13,4 @@ def make_commits(num_commits: int):
 
     os.system('git push')
 
-make_commits(1)
+make_commits(15)
